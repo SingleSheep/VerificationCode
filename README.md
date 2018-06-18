@@ -4,5 +4,5 @@ ThinkPHP5 短信邮件验证码集合
 
 ## 若对您有帮助，可以**赞助**支持下作者哦！
 ----
-![singlesheep](https://github.com/SingleSheep/payment-sdk-php/blob/master/20180418213222.png?raw=true)
+![赞赏](https://sirhe.cn/wp-content/uploads/2018/06/打赏.jpg)
 
